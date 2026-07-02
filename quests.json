@@ -1,0 +1,13 @@
+{
+ "quests": [
+  {
+   "id": "grand_tour",
+   "name": "The Grand Tour",
+   "steps": [
+    { "objective": { "type": "reach_area", "target": "c0_12" }, "desc": "Reach the old-town fountain plaza" }
+   ],
+   "rewards": { "xp": 100, "gold": 0 },
+   "on_complete_flags": ["saw_the_world"]
+  }
+ ]
+}
